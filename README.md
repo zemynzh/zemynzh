@@ -1,24 +1,15 @@
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20zemynzh!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
-</p>
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+passionate+about+AI+and+desktop+applications!;Creator+of+AI+desktop+applications!" />
 </p>
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
+</div>
+
 I'm **zemynzh**, a passionate developer with interests in **Python**, **TypeScript**, **Java**, and **AI technologies**. I enjoy exploring modern development frameworks and building innovative desktop applications that solve real-world problems.
-
-## 🚀 My Projects
-
-### 🤖 ColloqAI - Multi-Agent AI Chat Desktop Application
-A revolutionary desktop application that transforms the way users interact with AI models through intelligent multi-agent conversations.
-
-### 🔑 Keychat - AI Key Management Tool
-Unified AI service key management and chat desktop application.
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -32,14 +23,22 @@ Unified AI service key management and chat desktop application.
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=zemynzh&theme=transparent&hide_border=true&layout=compact" />
 </p>
 
+<div align="center">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 <p align="center">
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=js,ts,react,electron,nodejs,python,java,html,css,git,github,vscode&theme=light" />
 </p>
 
+<div align="center">
+
 ## 🔗 Connect With Me
+
+</div>
 
 <p align="center">
 <!-- https://github.com/badges/shields -->
@@ -50,16 +49,5 @@ Unified AI service key management and chat desktop application.
 <img src="https://komarev.com/ghpvc/?username=zemynzh&abbreviated=true&color=yellow" />
 </p>
 
-## 🌟 Star My Projects
 
-If you find my projects helpful, please consider giving them a star! ⭐
 
-- **[ColloqAI](https://github.com/zemynzh/colloqai)** - Multi-Agent AI Chat Desktop Application
-- **[Keychat](https://github.com/zemynzh/keychat)** - AI Key Management Tool
-
----
-
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope+your+AI+journey+is+amazing!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
