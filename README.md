@@ -43,7 +43,7 @@ I'm **zemynzh**, a passionate developer with interests in **Python**, **TypeScri
 <p align="center">
 <!-- https://github.com/badges/shields -->
 <a href="https://github.com/zemynzh"><img src="https://img.shields.io/badge/GitHub-zemynzh-blue?logo=github" /></a>
-<a href="mailto:zemynzh@gmail.com"><img src="https://img.shields.io/badge/Email-zemynzh@gmail.com-red?logo=gmail" /></a>
+<a href="mailto:zemynzh@gmail.com"><img src="https://img.shields.io/badge/Email-ozemyn@gmail.com-red?logo=gmail" /></a>
 <a href="https://github.com/zemynzh/colloqai"><img src="https://img.shields.io/badge/Project-ColloqAI-green?logo=electron" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=zemynzh&abbreviated=true&color=yellow" />
