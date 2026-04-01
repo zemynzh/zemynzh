@@ -51,7 +51,7 @@
 
 </div>
 
-## ⏰ Weekly Development Breakdown
+## ⏰ Coding Time Statistics
 
 <div align="center">
 
