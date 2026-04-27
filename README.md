@@ -7,19 +7,19 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Explorer;AI+Enthusiast;Code+Poet)
 
-![GitHub followers](https://img.shields.io/github/followers/zemynzh?style=flat-square&color=36BCF7&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/zemynzh?style=flat-square&color=36BCF7&label=Stars)
-
 </div>
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently working on **[Physic College](https://physiccollege.cn)** - Full-stack learning platform serving 100k+ users
-- 🎓 Built **[EduChain](https://educhain.cc)** - Blockchain-based educational IP protection platform
-- 💻 Passionate about writing elegant, maintainable code
-- 🌱 Exploring **AI + Blockchain + High-performance Web Architecture**
+**[Intlayer](https://intlayer.org)** Open Source Contributor - Maintaining Chinese localization and operating **[Chinese website](https://intlayer.cn)**
 
-## 🛠️ Tech Stack
+Currently working on **[PhysicCollege](https://physiccollege.cn)** - Online learning platform for universities
+
+Built **[EduChain](https://educhain.cc)** - Blockchain-based educational IP protection platform
+
+Passionate about writing elegant, maintainable code, exploring AI + Blockchain + High-performance Web Architecture
+
+## Tech Stack
 
 <div align="center">
 
@@ -43,39 +43,7 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zemynzh&theme=dark&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7)
-
-</div>
-
-## ⏰ Coding Time Statistics
-
-<div align="center">
-
-<a href="https://wakatime.com/@ozemyn">
-  <img src="https://wakatime.com/share/@ozemyn/170d9ce5-39be-4be9-9d1b-861eb917b84d.svg" alt="WakaTime Languages" />
-</a>
-
-</div>
-
-## 🏆 Featured Projects
-
-### 🎓 [Physic College](https://physiccollege.cn)
-> Full-stack learning platform built with Spring Boot + Next.js
-- 📈 Serving 100,000+ active users
-- 🔧 Microservices architecture with Redis caching
-- 📱 Responsive design with modern UI/UX
-
-### ⛓️ [EduChain](https://educhain.cc)
-> Blockchain-based educational IP protection
-- 🔐 Smart contract integration for content verification
-- 🌐 Next.js frontend with Web3 connectivity
-- 📜 Immutable certificate storage
-
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
