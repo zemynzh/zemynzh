@@ -7,19 +7,19 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=全栈开发工程师;区块链探索者;AI+爱好者;代码诗人)
 
-![GitHub followers](https://img.shields.io/github/followers/zemynzh?style=flat-square&color=36BCF7&label=关注者)
-![GitHub User's stars](https://img.shields.io/github/stars/zemynzh?style=flat-square&color=36BCF7&label=获得星标)
-
 </div>
 
-## 🚀 关于我
+## 关于我
 
-- 🔭 目前专注于 **[物院学习平台](https://physiccollege.cn)** - 服务10万+用户的全栈学习平台
-- 🎓 开发了 **[教育链 EduChain](https://educhain.cc)** - 基于区块链的教育知识产权保护平台
-- 💻 热衷于编写优雅、可维护的代码
-- 🌱 正在探索 **AI + 区块链 + 高性能Web架构**
+**[Intlayer](https://intlayer.org)** 开源项目贡献者 - 负责中文本地化维护及 **[中文官网](https://intlayer.cn)** 运营
 
-## 🛠️ 技术栈
+目前专注于 **[PhysicCollege](https://physiccollege.cn)** - 面向高校的在线学习平台
+
+开发了 **[EduChain](https://educhain.cc)** - 基于区块链的教育知识产权保护平台
+
+热衷于编写优雅、可维护的代码，正在探索 AI + 区块链 + 高性能Web架构
+
+## 技术栈
 
 <div align="center">
 
@@ -43,39 +43,7 @@
 
 </div>
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zemynzh&theme=dark&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7)
-
-</div>
-
-## ⏰ 编程时间统计
-
-<div align="center">
-
-<a href="https://wakatime.com/@ozemyn">
-  <img src="https://wakatime.com/share/@ozemyn/170d9ce5-39be-4be9-9d1b-861eb917b84d.svg" alt="WakaTime Languages" />
-</a>
-
-</div>
-
-## 🏆 精选项目
-
-### 🎓 [物院学习平台](https://physiccollege.cn)
-> 基于 Spring Boot + Next.js 构建的全栈学习平台
-- 📈 服务 10万+ 活跃用户
-- 🔧 微服务架构，Redis 缓存优化
-- 📱 响应式设计，现代化 UI/UX
-
-### ⛓️ [教育链 EduChain](https://educhain.cc)
-> 基于区块链的教育知识产权保护平台
-- 🔐 智能合约集成，内容验证
-- 🌐 Next.js 前端，Web3 连接
-- 📜 不可篡改的证书存储
-
-## 📫 联系我
+## 联系我
 
 <div align="center">
 
